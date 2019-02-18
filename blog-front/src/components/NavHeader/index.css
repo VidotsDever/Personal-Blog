@@ -1,0 +1,10 @@
+.header-container .ant-menu-horizontal{
+    height: 64px;
+    line-height: 64px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.ant-layout-header {
+    background: rgb(255, 255, 255);
+  }
